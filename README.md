@@ -1,5 +1,4 @@
 # StudyRepository
 
-# Front
-
-# Back
+# 스터디 일정
+- 
